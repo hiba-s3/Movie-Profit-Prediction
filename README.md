@@ -5,6 +5,11 @@ The provided dataset contains key features such as budget, crew information, rel
 The goal is to build models that estimate profit (or revenue) and enable data-driven decision-making in the film industry.
 
 ---
+## 🎯 Dataset
+The dataset used in this project can be downloaded from Google Drive:  
+[📂 Download Dataset](https://drive.google.com/file/d/1fQ6NfLqpjuji_aEUjv_8lQZ1QffAHztt/view?usp=sharing)
+
+---
 
 ##  Pipeline Overview
 
@@ -23,7 +28,7 @@ The goal is to build models that estimate profit (or revenue) and enable data-dr
    - Ensemble methods and stacking for improved performance.
 
 4. **Evaluation**  
-   - Metrics: RMSE, MAE, maybe R².
+   - Metrics: RMSE, MAE,  R², Accuracy.
    - Use cross-validation for robust performance estimates.
    - Visualize actual vs. predicted profit.
 
